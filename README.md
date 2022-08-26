@@ -1,2 +1,2 @@
-# af2_cscobjd
-Client-Side Communication Objective-C Dictionary
+# af2_cscobj
+Client-Side Communication Objective-C
